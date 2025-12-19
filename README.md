@@ -24,4 +24,4 @@ class aboutMe extends Developer {
 📚 Frameworks and Libraries
 <p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" alt="Spring" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="40" height="40" alt="Angular" /> </p>
 📊 GitHub Stats
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Thalisson-DEV&show_icons=true&theme=dark" alt="GitHub Stats" /> <br> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thalisson-DEV&theme=dark" alt="GitHub Streak" /> </p>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Thalisson-DEV&show_icons=true&theme=dark" alt="GitHub Stats" /> <br> </p>
