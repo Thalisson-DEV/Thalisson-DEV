@@ -1,27 +1,89 @@
-<h1 align="center">Hi 👋, I'm Thalisson</h1> <p align="center"><b>Back-End Development Student</b><br> Focused on learning scalable and efficient technologies.</p>
-🧑‍💻 I'm a <b>Back-End Developer student</b>, currently studying <b>Java</b>, <b>Spring Framework</b>, and <b>Angular</b>.
+<h1 align="center">Thalisson Damião 👋</h1>
 
-🧠 I have <b>intermediate SQL</b> skills and experience with <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b>, and <b>Java</b>.
+<p align="center">
+  <b>Desenvolvedor Fullstack</b> · Java · TypeScript · Spring Boot · Angular · Next.js
+  <br/>
+  <sub>Juazeiro - BA, Brasil</sub>
+</p>
 
-🚀 I'm always learning and looking for ways to grow as a developer.
+<p align="center">
+  <a href="https://github.com/Thalisson-DEV">
+    <img src="https://komarev.com/ghpvc/?username=Thalisson-DEV&color=3b82f6&style=flat-square&label=visualizações+do+perfil" alt="Visualizações do perfil" />
+  </a>
+</p>
 
 ---
 
-```java
-import Developer from "Thalisson";
+## 👨‍💻 Sobre mim
 
-class aboutMe extends Developer {
-    String name = "Thalisson Damião";
-    String area = "Backend Development";
-    String local = "Juazeiro - BA, Brazil";
-}
+Desenvolvedor fullstack focado em construir sistemas escaláveis com arquitetura limpa. Atuo em toda a stack — de APIs REST e sistemas distribuídos no backend, a SPAs reativas e aplicações SSR no frontend.
+
+Atualmente construindo sistemas internos corporativos com **Java 21 + Spring Boot** e **Angular**, e desenvolvendo meu próprio produto SaaS do zero.
+
+```typescript
+const thalisson = {
+  cargo:    "Desenvolvedor Fullstack",
+  cidade:   "Juazeiro, BA — Brasil",
+  backend:  ["Java", "Spring Boot", "Node.js", "Fastify", "Bun"],
+  frontend: ["TypeScript", "Angular", "Next.js"],
+  dados:    ["PostgreSQL", "MySQL", "Redis"],
+  infra:    ["Docker", "Prometheus", "Grafana"],
+  agora:    "Construindo um SaaS + sistema ERP corporativo",
+};
 ```
 
 ---
 
-🛠️ Languages and Technologies
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" /> </p>
-📚 Frameworks and Libraries
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" alt="Spring" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="40" height="40" alt="Angular" /> </p>
-📊 GitHub Stats
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Thalisson-DEV&show_icons=true&theme=dark" alt="GitHub Stats" /> <br> </p>
+## 🛠️ Stack
+
+### Backend
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="36" height="36" alt="Java" title="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="36" height="36" alt="Spring Boot" title="Spring Boot" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36" height="36" alt="Node.js" title="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-original.svg" width="36" height="36" alt="Fastify" title="Fastify" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bun/bun-original.svg" width="36" height="36" alt="Bun" title="Bun" />
+</p>
+
+### Frontend
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36" height="36" alt="TypeScript" title="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="36" height="36" alt="Angular" title="Angular" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="36" height="36" alt="Next.js" title="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" height="36" alt="JavaScript" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="36" height="36" alt="HTML5" title="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="36" height="36" alt="CSS3" title="CSS3" />
+</p>
+
+### Dados & Infraestrutura
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="36" height="36" alt="PostgreSQL" title="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36" height="36" alt="MySQL" title="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="36" height="36" alt="Redis" title="Redis" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36" height="36" alt="Docker" title="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg" width="36" height="36" alt="Prometheus" title="Prometheus" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" width="36" height="36" alt="Grafana" title="Grafana" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Thalisson-DEV&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=3b82f6&icon_color=3b82f6" 
+    alt="GitHub Stats" 
+    height="165"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thalisson-DEV&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=3b82f6" 
+    alt="Linguagens mais usadas" 
+    height="165"
+  />
+</p>
+
+---
+
+<p align="center">
+  <sub>Construindo coisas que duram · aberto a colaborações</sub>
+</p>
